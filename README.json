@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T00:48:43Z",
+            "last_commit": "2026-08-14T20:59:08Z",
             "owner": "jebibot",
             "repo": "cheese-knife",
             "stars": 24
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:03:49.280Z",
+    "last_updated": "2026-08-14T22:41:23.946Z",
     "original_repository": "dokdo2013/awesome-chzzk",
     "original_repository_sha": "9e802b112aab2e50874e9097af68b71942a579e3",
     "enhanced_repository": "enhansome/enhansome-chzzk",
