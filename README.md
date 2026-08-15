@@ -12,7 +12,7 @@
 
 ### 크롬 익스텐션
 
-* [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) ⭐ 59 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-20 - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
+* [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-20 - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
 * [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-31 - 치지직 PIP, 녹화 버튼 추가 확장 `Typescript` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
 * [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) ⭐ 24 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-14 - 네이버 스트리밍 플랫폼 치지직에 다양하고 유용한 기능과 도구를 추가합니다. `Javascript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 * [Serpong/tzzk](https://github.com/Serpong/tzzk) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-07-11 - 트지직 - 트수 이주 환경 적응 지원 서비스 `Javascript` ([익스텐션 설치](https://chromewebstore.google.com/detail/%ED%8A%B8%EC%A7%80%EC%A7%81-%ED%8A%B8%EC%88%98-%EC%9D%B4%EC%A3%BC-%ED%99%98%EA%B2%BD-%EC%A0%81%EC%9D%91-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4/bhfdliamlakhmeononpemhichflfeblc))
@@ -72,7 +72,7 @@
 
 ### Tampermonkey 유저 스크립트
 
-* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
+* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 31 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
 
 ### VOD Downloader
 
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
