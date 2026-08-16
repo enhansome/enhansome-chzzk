@@ -89,7 +89,7 @@
 
 ### 기타 프로젝트
 
-* [Escaper-Park/unofficial\_chizzk\_android\_tv](https://github.com/Escaper-Park/unofficial_chzzk_android_tv) ⭐ 102 | 🐛 2 | 🌐 Dart | 📅 2026-07-11 - 비공식 치지직 안드로이드 TV 앱 `Dart`
+* [Escaper-Park/unofficial\_chizzk\_android\_tv](https://github.com/Escaper-Park/unofficial_chzzk_android_tv) ⭐ 103 | 🐛 2 | 🌐 Dart | 📅 2026-07-11 - 비공식 치지직 안드로이드 TV 앱 `Dart`
 * [ssogari-dev/Chzzk\_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - 스트리밍 서비스 '네이버 치지직(CHZZK)' 관련 여러 도구 모음 `Python`
 
 ## 기여하는 방법
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
