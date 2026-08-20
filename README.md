@@ -12,7 +12,7 @@
 
 ### 크롬 익스텐션
 
-* [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-20 - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
+* [kyechan99/chzzk-plus](https://github.com/kyechan99/chzzk-plus) ⭐ 59 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-20 - Chzzk 치지직 확장프로그램 `Typescript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia))
 * [khk4912/Chzzk-PIP](https://github.com/khk4912/Chzzk-PIP) ⭐ 25 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19 - 치지직 PIP, 녹화 버튼 추가 확장 `Typescript` ([익스텐션 설치](https://chromewebstore.google.com/detail/chzzk-pip/gkgpbobdiaaodjbmgdankimklclnagio))
 * [jebibot/cheese-knife](https://github.com/jebibot/cheese-knife) ⭐ 24 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-14 - 네이버 스트리밍 플랫폼 치지직에 다양하고 유용한 기능과 도구를 추가합니다. `Javascript` `MIT License` ([익스텐션 설치](https://chromewebstore.google.com/detail/nfkfgkkhgglkgnlppncolmpekidapkjh))
 * [Serpong/tzzk](https://github.com/Serpong/tzzk) ⭐ 3 | 🐛 0 | 🌐 CSS | 📅 2026-07-11 - 트지직 - 트수 이주 환경 적응 지원 서비스 `Javascript` ([익스텐션 설치](https://chromewebstore.google.com/detail/%ED%8A%B8%EC%A7%80%EC%A7%81-%ED%8A%B8%EC%88%98-%EC%9D%B4%EC%A3%BC-%ED%99%98%EA%B2%BD-%EC%A0%81%EC%9D%91-%EC%A7%80%EC%9B%90-%EC%84%9C%EB%B9%84%EC%8A%A4/bhfdliamlakhmeononpemhichflfeblc))
@@ -52,7 +52,7 @@
 
 ### Streamlink 플러그인
 
-* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-08-08 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
+* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 * [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - 자동 녹화 시스템 `Python` `MIT License`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
