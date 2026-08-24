@@ -276,6 +276,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "dokdo2013/twitchzzk-api",
+              "description": "Twitch Helix API 호환 Chzzk(치지직) API (API 문서)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 734182440,
+                "language": "TypeScript",
+                "last_commit": "2024-01-02T17:21:17Z",
+                "owner": "dokdo2013",
+                "repo": "twitchzzk-api",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenAPI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "jebibot/cheese-remote",
               "description": "치지직 치즈 후원 모아보기, 다시 재생, 일시정지, 스킵, 볼륨, 노출 시간 조절 (서비스)",
               "children": [],
@@ -301,7 +323,7 @@
                 "last_commit": "2026-04-27T02:53:50Z",
                 "owner": "kimchanhyung98",
                 "repo": "hakko-finder",
-                "stars": 4
+                "stars": 5
               }
             },
             {
@@ -372,7 +394,7 @@
                 "archived": false,
                 "id": 762667574,
                 "language": "Python",
-                "last_commit": "2026-08-21T10:20:31Z",
+                "last_commit": "2026-08-24T10:13:18Z",
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
                 "stars": 50
@@ -427,6 +449,28 @@
           "description": null,
           "node_type": "group",
           "title": "Streamlink 플러그인"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Buddha7771/ChzzkChat",
+              "description": "파이썬 치지직 채팅 크롤러",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733655125,
+                "language": "Python",
+                "last_commit": "2025-08-31T17:18:55Z",
+                "owner": "Buddha7771",
+                "repo": "ChzzkChat",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "크롤러"
         },
         {
           "children": [
@@ -514,6 +558,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "nomomo/Chzzk_Scripts",
+              "description": "chzzk_utils",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 734762844,
+                "language": "JavaScript",
+                "last_commit": "2026-06-24T11:51:47Z",
+                "owner": "nomomo",
+                "repo": "Chzzk_Scripts",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tampermonkey 유저 스크립트"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "NOOBNUBY/McChzzk",
               "description": "Minecraft <-> Chzzk plugin",
               "children": [],
@@ -551,6 +617,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "kim0chan/Flow.Launcher.Plugin.CHZZK",
+              "description": "Flow Launcher 치지직 플러그인",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1008983386,
+                "language": "TypeScript",
+                "last_commit": "2025-08-10T08:22:25Z",
+                "owner": "kim0chan",
+                "repo": "Flow.Launcher.Plugin.CHZZK",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flow Launcher 플러그인"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Escaper-Park/unofficial_chizzk_android_tv",
               "description": "비공식 치지직 안드로이드 TV 앱",
               "children": [],
@@ -574,7 +662,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:38:24.722Z",
+    "last_updated": "2026-08-24T14:32:40.401Z",
     "original_repository": "dokdo2013/awesome-chzzk",
     "original_repository_id": 738130955,
     "original_repository_sha": "9e802b112aab2e50874e9097af68b71942a579e3",

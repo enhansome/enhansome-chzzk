@@ -41,7 +41,7 @@
 ### 서드파티 서비스
 
 * [jebibot/cheese-remote](https://github.com/jebibot/cheese-remote) ⚠️ Archived - 치지직 치즈 후원 모아보기, 다시 재생, 일시정지, 스킵, 볼륨, 노출 시간 조절 `Typescript` ([서비스](https://remote.chz.app/))
-* [kimchanhyung98/hakko-finder](https://github.com/kimchanhyung98/hakko-finder) ⭐ 4 | 🐛 9 | 🌐 Svelte | 📅 2026-04-27 - 치지직 하꼬 탐색기 `Typescript` ([서비스](https://chzzk.chanhyung.kim/))
+* [kimchanhyung98/hakko-finder](https://github.com/kimchanhyung98/hakko-finder) ⭐ 5 | 🐛 9 | 🌐 Svelte | 📅 2026-04-27 - 치지직 하꼬 탐색기 `Typescript` ([서비스](https://chzzk.chanhyung.kim/))
 * [axl0926/chzzk](https://github.com/axl0926/chzzk) ⚠️ Archived - 방송 카테고리에 따른 치지직 방송 분류 `Typescript` ([서비스](https://chzzk.vercel.app/))
 * [popop098/chzzkcounts](https://github.com/popop098/chzzkcounts) - 실시간 팔로워 수 카운팅 `Javascript` ([서비스](https://www.chzzkcounts.live/))
 
@@ -52,7 +52,7 @@
 
 ### Streamlink 플러그인
 
-* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
+* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 * [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - 자동 녹화 시스템 `Python` `MIT License`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
