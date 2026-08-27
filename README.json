@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 729065917,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T12:01:15Z",
+                "last_commit": "2026-08-27T05:44:26Z",
                 "owner": "jebibot",
                 "repo": "cheese-knife",
                 "stars": 24
@@ -662,9 +662,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:19:23.693Z",
-    "original_repository": "dokdo2013/awesome-chzzk",
-    "original_repository_id": 738130955,
+    "last_updated": "2026-08-27T11:38:07.071Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 738130955,
+      "language": null,
+      "last_commit": "2025-07-01T14:37:18Z",
+      "owner": "dokdo2013",
+      "repo": "awesome-chzzk",
+      "stars": 201
+    },
     "original_repository_sha": "9e802b112aab2e50874e9097af68b71942a579e3",
     "enhanced_repository": "enhansome/enhansome-chzzk",
     "enhanced_repository_description": null,
