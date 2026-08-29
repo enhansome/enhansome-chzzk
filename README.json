@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔋 Chzzk 치지직 확장프로그램",
+                "homepage": "https://chromewebstore.google.com/detail/chzzk-plus/miampiopgfpnimmggagljgbpmjmjdjia",
                 "id": 733387433,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T15:26:54Z",
+                "open_issues": 12,
                 "owner": "kyechan99",
                 "repo": "chzzk-plus",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "chzzk",
+                  "chzzk-plus"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -28,12 +36,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직에 다양한 기능을 추가하는 브라우저 확장 프로그램",
+                "homepage": "https://pip.kosame.dev",
                 "id": 733512653,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-19T03:14:49Z",
+                "open_issues": 2,
                 "owner": "khk4912",
                 "repo": "Cheese-PIP",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "chrome-extension",
+                  "chzzk",
+                  "mediarecorder",
+                  "typescript",
+                  "vite",
+                  "wxt"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -44,12 +64,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직™에 다양하고 유용한 기능과 도구를 추가합니다.",
+                "homepage": "https://www.chz.app",
                 "id": 729065917,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T05:44:26Z",
+                "open_issues": 19,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "browser-extension",
+                  "chrome-extension",
+                  "chzzk",
+                  "extension"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -60,12 +90,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "twitch ui for chzzk - chrome extension",
+                "homepage": null,
                 "id": 733512358,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-07-11T18:17:18Z",
+                "open_issues": 0,
                 "owner": "Serpong",
                 "repo": "tzzk",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -76,12 +111,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직 자동 광고 스키퍼",
+                "homepage": "https://chromewebstore.google.com/detail/치지직-광고-스키퍼/dfckileffglgodofacjbhbglplojmcfl",
                 "id": 776409159,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-15T14:38:44Z",
+                "open_issues": 0,
                 "owner": "2jun0",
                 "repo": "chzzk-ad-autoskipper",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ad-skip",
+                  "chrome-extension",
+                  "chzzk",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -92,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직 비디오 플레이어 단축키 적용",
+                "homepage": null,
                 "id": 738784233,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-06-04T12:29:56Z",
+                "open_issues": 0,
                 "owner": "Cl4nn5",
                 "repo": "chzzk_shortcut",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -115,12 +165,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "네이버 라이브 스트리밍 서비스 치지직의 비공식 API 라이브러리",
+                "homepage": null,
                 "id": 733304515,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-13T09:05:57Z",
+                "open_issues": 3,
                 "owner": "kimcore",
                 "repo": "chzzk",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "chzzk",
+                  "naver"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -131,12 +189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver)",
+                "homepage": null,
                 "id": 737375580,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-12T09:34:07Z",
+                "open_issues": 1,
                 "owner": "R2turnTrue",
                 "repo": "chzzk4j",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -147,12 +210,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리",
+                "homepage": "https://chzzkpy.yhs.kr/ko",
                 "id": 759431733,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-12T06:45:25Z",
+                "open_issues": 0,
                 "owner": "gunyu1019",
                 "repo": "chzzkpy",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "chzzk"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -163,12 +233,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. (Node.js)",
+                "homepage": "https://buzzk.arite.studio/",
                 "id": 744435568,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-25T00:09:22Z",
+                "open_issues": 0,
                 "owner": "Emin-G",
                 "repo": "buzzk",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "buzzk",
+                  "chzzk",
+                  "chzzk-chat-bot",
+                  "chzzk-chatbot",
+                  "javascript",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -179,12 +261,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unity Chzzk chatting/donation Connection",
+                "homepage": null,
                 "id": 752548683,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-11-26T07:47:27Z",
+                "open_issues": 0,
                 "owner": "JoKangHyeon",
                 "repo": "ChzzkUnity",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "chzzk",
+                  "csharp",
+                  "unity"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -195,12 +286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An unofficial Python library for CHZZK",
+                "homepage": null,
                 "id": 734105883,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-18T07:34:53Z",
+                "open_issues": 2,
                 "owner": "jonghwanhyeon",
                 "repo": "python-chzzk",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -211,12 +307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 733605883,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-09-18T17:21:25Z",
+                "open_issues": 0,
                 "owner": "Kwabang",
                 "repo": "chzzk-sdk",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -227,12 +328,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "unofficial chzzk sdk",
+                "homepage": "https://crates.io/crates/chzzk",
                 "id": 777064834,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-09T09:33:44Z",
+                "open_issues": 1,
                 "owner": "P-Asta",
                 "repo": "chzzk-rs",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "chzzk",
+                  "crate",
+                  "crates",
+                  "crates-io",
+                  "rust",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -243,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chzzk kotlin sdk",
+                "homepage": null,
                 "id": 858791985,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-28T16:52:29Z",
+                "open_issues": 0,
                 "owner": "olymika",
                 "repo": "chzzk-with-me",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -259,12 +377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "비공식 네이버 스트리밍 서비스 치지직 JavaScript API",
+                "homepage": null,
                 "id": 734872535,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-26T17:36:36Z",
+                "open_issues": 0,
                 "owner": "Helloyunho",
                 "repo": "spark",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -275,12 +398,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial C++ Chzzk API Library",
+                "homepage": null,
                 "id": 834494344,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-12-09T12:18:45Z",
+                "open_issues": 0,
                 "owner": "Kareus",
                 "repo": "chzzkpp",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "chzzk"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -298,12 +428,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twitch Helix API 호환 Chzzk(치지직) API",
+                "homepage": "https://api.twitchzzk.tv",
                 "id": 734182440,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-02T17:21:17Z",
+                "open_issues": 2,
                 "owner": "dokdo2013",
                 "repo": "twitchzzk-api",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "chzzk",
+                  "helix",
+                  "twitch"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -321,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "치지직 치즈 후원 모아보기, 다시 재생, 일시정지, 스킵, 볼륨, 노출 시간 조절",
+                "homepage": "https://remote.chz.app",
                 "id": 742380136,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-06T23:17:37Z",
+                "open_issues": 4,
                 "owner": "jebibot",
                 "repo": "cheese-remote",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -337,12 +481,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "chzzk minor streamer finder",
+                "homepage": "https://chzzk.chanhyung.kim",
                 "id": 746568629,
                 "language": "Svelte",
+                "license": null,
                 "last_commit": "2026-04-27T02:53:50Z",
+                "open_issues": 9,
                 "owner": "kimchanhyung98",
                 "repo": "hakko-finder",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "chzzk",
+                  "finder",
+                  "hakko",
+                  "streamer",
+                  "svelte",
+                  "twitch"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -353,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[DEPRECATE] 카테고리 기능 공식 지원으로 인해 해당 프로젝트는 더 이상 업데이트 되지 않습니다.",
+                "homepage": null,
                 "id": 734488018,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-03-10T19:24:14Z",
+                "open_issues": 0,
                 "owner": "axl0926",
                 "repo": "chzzk",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -376,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://chzzk-overlay.vercel.app",
                 "id": 733533389,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-01-06T11:53:33Z",
+                "open_issues": 0,
                 "owner": "kimcore",
                 "repo": "chzzk-overlay",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -392,12 +558,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My custom CSS file for a Chzzk chat window",
+                "homepage": null,
                 "id": 770035169,
                 "language": "CSS",
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-30T09:22:41Z",
+                "open_issues": 0,
                 "owner": "chabulhwi",
                 "repo": "chzzk-custom-css",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "chzzk",
+                  "obs"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -415,12 +589,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직 방송을 자동 녹화하는 도구",
+                "homepage": null,
                 "id": 762667574,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T10:13:18Z",
+                "open_issues": 0,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "chzzk",
+                  "mediarecorder",
+                  "recorder"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -431,12 +614,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "streamlink plugin for CHZZK(치지직)",
+                "homepage": null,
                 "id": 733458923,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-07T11:37:30Z",
+                "open_issues": 2,
                 "owner": "park-onezero",
                 "repo": "streamlink-plugin-chzzk",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -447,12 +635,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직(CHZZK) Streamlink 자동 녹화",
+                "homepage": null,
                 "id": 759953113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-04T15:47:49Z",
+                "open_issues": 0,
                 "owner": "4Z0N4S",
                 "repo": "Callisto",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -463,12 +656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직 라이브 녹화",
+                "homepage": null,
                 "id": 735208922,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T10:30:26Z",
+                "open_issues": 0,
                 "owner": "MongsilDev",
                 "repo": "chzzk-live-recorder",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -486,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "파이썬 치지직 채팅 크롤러",
+                "homepage": null,
                 "id": 733655125,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-31T17:18:55Z",
+                "open_issues": 1,
                 "owner": "Buddha7771",
                 "repo": "ChzzkChat",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -509,12 +712,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "치지직 방송 알림 디스코드 봇",
+                "homepage": "https://chzzk.junah.dev",
                 "id": 738088434,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-11T13:13:52Z",
+                "open_issues": 7,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "chzzk",
+                  "discord-bot"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -525,12 +736,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NAVER's CHZZK Live Notification Bot for Discord",
+                "homepage": null,
                 "id": 733325323,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-22T23:34:35Z",
+                "open_issues": 0,
                 "owner": "HaruChanHeart",
                 "repo": "chzzk-live-bot",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "bot",
+                  "chzzk",
+                  "discord",
+                  "livestream"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -541,12 +762,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "discord bot chzzk live notification",
+                "homepage": null,
                 "id": 737957117,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-03T15:48:04Z",
+                "open_issues": 0,
                 "owner": "LukeNightstar",
                 "repo": "discord_chzzk_live",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "chzzk",
+                  "discord",
+                  "discord-js"
+                ]
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -557,12 +787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 737791803,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-25T00:27:04Z",
+                "open_issues": 0,
                 "owner": "HaekyungS",
                 "repo": "chzzk_discord",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -573,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "discord-chzzk-bot  discord.js v14 버전으로 만든 비공식 chzzk 알림봇",
+                "homepage": null,
                 "id": 738952521,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-01-07T14:35:33Z",
+                "open_issues": 0,
                 "owner": "GangOn0215",
                 "repo": "discord-chzzk-bot-js",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -596,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "개인적인 용도로 사용하려고 만든 Chzzk user-scripts 모음집",
+                "homepage": null,
                 "id": 734762844,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-24T11:51:47Z",
+                "open_issues": 1,
                 "owner": "nomomo",
                 "repo": "Chzzk_Scripts",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -619,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minecraft <-> Chzzk plugin",
+                "homepage": null,
                 "id": 737517768,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-31T11:02:03Z",
+                "open_issues": 0,
                 "owner": "noobnuby",
                 "repo": "McChzzk",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -635,12 +885,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chzzk addon, for skript",
+                "homepage": null,
                 "id": 881747061,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-29T23:39:57Z",
+                "open_issues": 1,
                 "owner": "as7ar",
                 "repo": "skChzzk",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -658,12 +913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flow Launcher plugin for CHZZK",
+                "homepage": null,
                 "id": 1008983386,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-08-10T08:22:25Z",
+                "open_issues": 7,
                 "owner": "kim0chan",
                 "repo": "Flow.Launcher.Plugin.CHZZK",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -681,12 +941,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "비공식 치치직 안드로이드 TV 앱",
+                "homepage": null,
                 "id": 744412364,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-07-11T05:23:21Z",
+                "open_issues": 2,
                 "owner": "Escaper-Park",
                 "repo": "unofficial_chzzk_android_tv",
-                "stars": 103
+                "stars": 103,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             }
@@ -700,15 +965,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:07:59.404Z",
+    "last_updated": "2026-08-29T03:43:13.715Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
+      "homepage": null,
       "id": 738130955,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-07-01T14:37:18Z",
+      "open_issues": 5,
       "owner": "dokdo2013",
       "repo": "awesome-chzzk",
-      "stars": 201
+      "stars": 201,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chzzk"
+      ]
     },
     "original_repository_sha": "9e802b112aab2e50874e9097af68b71942a579e3",
     "enhanced_repository": "enhansome/enhansome-chzzk",
