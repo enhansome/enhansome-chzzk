@@ -52,7 +52,7 @@
 
 ### Streamlink 플러그인
 
-* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 51 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
+* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 * [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - 자동 녹화 시스템 `Python` `MIT License`
@@ -89,8 +89,8 @@
 
 ### 기타 프로젝트
 
-* [Escaper-Park/unofficial\_chizzk\_android\_tv](https://github.com/Escaper-Park/unofficial_chzzk_android_tv) ⭐ 103 | 🐛 2 | 🌐 Dart | 📅 2026-07-11 - 비공식 치지직 안드로이드 TV 앱 `Dart`
 * [ssogari-dev/Chzzk\_Tool](https://github.com/ssogari-dev/Chzzk_Tool) - 스트리밍 서비스 '네이버 치지직(CHZZK)' 관련 여러 도구 모음 `Python`
+* [Escaper-Park/unofficial\_chizzk\_android\_tv](https://github.com/Escaper-Park/unofficial_chzzk_android_tv) - 비공식 치지직 안드로이드 TV 앱 `Dart`
 
 ## 기여하는 방법
 
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
