@@ -48,7 +48,7 @@
 ### 오버레이
 
 * [kimcore/chzzk-overlay](https://github.com/kimcore/chzzk-overlay) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-06 - 채팅 오버레이 `Typescript` ([서비스](https://chzzk-overlay.vercel.app/))
-* [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2026-07-30 - 4K UHD를 지원하는 치지직 채팅창을 위한 커스텀 CSS `CSS` `CC0-1.0 License`
+* [chabulhwi/chzzk-custom-css](https://github.com/chabulhwi/chzzk-custom-css) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2026-09-06 - 4K UHD를 지원하는 치지직 채팅창을 위한 커스텀 CSS `CSS` `CC0-1.0 License`
 
 ### Streamlink 플러그인
 
@@ -63,7 +63,7 @@
 
 ### 디스코드 봇
 
-* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-11 - 치지직 방송 알림 디스코드 봇 `Typescript`
+* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - 치지직 방송 알림 디스코드 봇 `Typescript`
 * [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-22 - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
 * [LukeNightstar/discord\_chzzk\_live](https://github.com/LukeNightstar/discord_chzzk_live) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-03 - discord bot chzzk live notification `Javascript` `MIT License`
 * [HaekyungS/chzzk\_discord](https://github.com/HaekyungS/chzzk_discord) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-25 - 디스코드 치지직 뱅온 알림 봇 `Javascript`
@@ -72,7 +72,7 @@
 
 ### Tampermonkey 유저 스크립트
 
-* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 31 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
+* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 32 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
 
 ### VOD Downloader
 
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

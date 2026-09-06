@@ -563,7 +563,7 @@
                 "id": 770035169,
                 "language": "CSS",
                 "license": "CC0-1.0",
-                "last_commit": "2026-07-30T09:22:41Z",
+                "last_commit": "2026-09-06T13:46:25Z",
                 "open_issues": 0,
                 "owner": "chabulhwi",
                 "repo": "chzzk-custom-css",
@@ -717,7 +717,7 @@
                 "id": 738088434,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-08-11T13:13:52Z",
+                "last_commit": "2026-09-06T04:32:05Z",
                 "open_issues": 7,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
@@ -845,7 +845,7 @@
                 "open_issues": 1,
                 "owner": "nomomo",
                 "repo": "Chzzk_Scripts",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:54:35.335Z",
+    "last_updated": "2026-09-06T23:55:26.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
