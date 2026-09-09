@@ -70,7 +70,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-07T18:46:53Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
                 "stars": 24,
@@ -594,7 +594,7 @@
                 "id": 762667574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T14:44:12Z",
+                "last_commit": "2026-09-08T10:16:05Z",
                 "open_issues": 0,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:25:53.929Z",
+    "last_updated": "2026-09-09T00:15:57.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
