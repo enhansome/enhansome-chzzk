@@ -70,7 +70,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-09T21:46:16Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
                 "stars": 24,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:13:15.874Z",
+    "last_updated": "2026-09-15T00:38:46.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
