@@ -63,7 +63,7 @@
 
 ### 디스코드 봇
 
-* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - 치지직 방송 알림 디스코드 봇 `Typescript`
+* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-16 - 치지직 방송 알림 디스코드 봇 `Typescript`
 * [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-22 - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
 * [LukeNightstar/discord\_chzzk\_live](https://github.com/LukeNightstar/discord_chzzk_live) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-03 - discord bot chzzk live notification `Javascript` `MIT License`
 * [HaekyungS/chzzk\_discord](https://github.com/HaekyungS/chzzk_discord) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-25 - 디스코드 치지직 뱅온 알림 봇 `Javascript`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

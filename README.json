@@ -717,8 +717,8 @@
                 "id": 738088434,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-06T04:32:05Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-16T07:47:21Z",
+                "open_issues": 6,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
                 "stars": 31,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:21:54.519Z",
+    "last_updated": "2026-09-17T00:33:02.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
