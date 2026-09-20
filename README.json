@@ -18,7 +18,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T16:52:06Z",
-                "open_issues": 13,
+                "open_issues": 16,
                 "owner": "kyechan99",
                 "repo": "chzzk-plus",
                 "stars": 59,
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:22:00.574Z",
+    "last_updated": "2026-09-20T00:09:29.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
