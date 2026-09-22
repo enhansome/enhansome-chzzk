@@ -69,7 +69,7 @@
                 "id": 729065917,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T20:01:16Z",
+                "last_commit": "2026-09-21T22:22:48Z",
                 "open_issues": 21,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
@@ -174,7 +174,7 @@
                 "open_issues": 3,
                 "owner": "kimcore",
                 "repo": "chzzk",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "chzzk",
                   "naver"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:16:59.261Z",
+    "last_updated": "2026-09-22T00:50:53.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
