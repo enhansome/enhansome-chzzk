@@ -21,7 +21,7 @@
                 "open_issues": 16,
                 "owner": "kyechan99",
                 "repo": "chzzk-plus",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "chzzk",
                   "chzzk-plus"
@@ -937,7 +937,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:50:53.638Z",
+    "last_updated": "2026-09-23T00:34:27.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
