@@ -52,7 +52,7 @@
 
 ### Streamlink 플러그인
 
-* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2026-09-12 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
+* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 55 | 🐛 1 | 🌐 Python | 📅 2026-09-24 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 * [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - 자동 녹화 시스템 `Python` `MIT License`
@@ -72,7 +72,7 @@
 
 ### Tampermonkey 유저 스크립트
 
-* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
+* [nomomo/Chzzk\_Scripts](https://github.com/nomomo/Chzzk_Scripts) ⭐ 34 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-24 - chzzk\_utils `Javascript` `MIT License`
 
 ### VOD Downloader
 
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
