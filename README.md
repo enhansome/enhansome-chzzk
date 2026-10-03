@@ -94,7 +94,7 @@
 
 ## 기여하는 방법
 
-프로젝트에 기여하고 싶다면 [기여 가이드라인](https://github.com/dokdo2013/awesome-chzzk/blob/main/CONTRIBUTING.md) ⭐ 201 | 🐛 5 | 📅 2025-07-01 문서를 읽어주세요!
+프로젝트에 기여하고 싶다면 [기여 가이드라인](https://github.com/dokdo2013/awesome-chzzk/blob/main/CONTRIBUTING.md) 문서를 읽어주세요!
 
 ## 기여자
 
