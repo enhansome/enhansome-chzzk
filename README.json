@@ -69,7 +69,7 @@
                 "id": 729065917,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T15:16:50Z",
+                "last_commit": "2026-10-13T18:59:45Z",
                 "open_issues": 21,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
@@ -174,7 +174,7 @@
                 "open_issues": 3,
                 "owner": "kimcore",
                 "repo": "chzzk",
-                "stars": 213,
+                "stars": 212,
                 "topics": [
                   "chzzk",
                   "naver"
@@ -817,7 +817,7 @@
                 "open_issues": 1,
                 "owner": "nomomo",
                 "repo": "Chzzk_Scripts",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:03:23.237Z",
+    "last_updated": "2026-10-14T01:13:38.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
@@ -921,7 +921,7 @@
       "open_issues": 5,
       "owner": "dokdo2013",
       "repo": "awesome-chzzk",
-      "stars": 201,
+      "stars": 202,
       "topics": [
         "awesome",
         "awesome-list",
