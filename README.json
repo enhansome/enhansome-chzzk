@@ -661,7 +661,7 @@
                 "id": 735208922,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T17:08:45Z",
+                "last_commit": "2026-10-19T11:02:46Z",
                 "open_issues": 0,
                 "owner": "MongsilDev",
                 "repo": "chzzk-live-recorder",
@@ -689,8 +689,8 @@
                 "id": 738088434,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-16T07:47:21Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-19T18:02:26Z",
+                "open_issues": 7,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
                 "stars": 31,
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:12:51.133Z",
+    "last_updated": "2026-10-20T01:05:41.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",

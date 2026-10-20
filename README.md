@@ -55,7 +55,7 @@
 * [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2026-10-12 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
-* [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-10 - 자동 녹화 시스템 `Python` `MIT License`
+* [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-19 - 자동 녹화 시스템 `Python` `MIT License`
 
 ### 크롤러
 
@@ -63,7 +63,7 @@
 
 ### 디스코드 봇
 
-* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-16 - 치지직 방송 알림 디스코드 봇 `Typescript`
+* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-19 - 치지직 방송 알림 디스코드 봇 `Typescript`
 * [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-22 - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
 * [LukeNightstar/discord\_chzzk\_live](https://github.com/LukeNightstar/discord_chzzk_live) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-03 - discord bot chzzk live notification `Javascript` `MIT License`
 * [HaekyungS/chzzk\_discord](https://github.com/HaekyungS/chzzk_discord) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-25 - 디스코드 치지직 뱅온 알림 봇 `Javascript`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
