@@ -194,8 +194,8 @@
                 "id": 737375580,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-07-12T09:34:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-23T16:53:13Z",
+                "open_issues": 1,
                 "owner": "R2turnTrue",
                 "repo": "chzzk4j",
                 "stars": 47,
@@ -594,7 +594,7 @@
                 "id": 762667574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:35:31Z",
+                "last_commit": "2026-10-23T06:42:08Z",
                 "open_issues": 2,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:40:51.705Z",
+    "last_updated": "2026-10-24T00:43:24.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
