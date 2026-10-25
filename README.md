@@ -25,7 +25,7 @@
 * \[Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) ⭐ 211 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-13 - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
 * \[Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) ⭐ 47 | 🐛 1 | 🌐 Java | 📅 2026-10-23 - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 * \[Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/)) ([공식 문서](https://gunyu1019.github.io/chzzkpy/ko))
-* \[Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-25 - 뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
+* \[Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - 뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
 * \[Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2024-11-26 - Unity Chzzk chatting/donation Connection `C#`
 * \[Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-01-18 - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
 * \[Node.js] [Kwabang/chzzk-sdk](https://github.com/Kwabang/chzzk-sdk) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2024-09-18 - Node.js SDK `Javascript` `AGPL-3.0 License` ([NPM](https://www.npmjs.com/package/chzzk-sdk))
@@ -52,7 +52,7 @@
 
 ### Streamlink 플러그인
 
-* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 62 | 🐛 2 | 🌐 Python | 📅 2026-10-23 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
+* [munsy0227/Chzzk-Rekoda](https://github.com/munsy0227/Chzzk-Rekoda) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2026-10-24 - 치지직 방송을 편하게 자동 녹화하기 위한 프로그램 `Python` `MIT License`
 * [park-onezero/streamlink-plugin-chzzk](https://github.com/park-onezero/streamlink-plugin-chzzk) ⚠️ Archived - streamlink plugin for 치지직(Chzzk) `Python`
 * [4Z0N4S/Callisto](https://github.com/4Z0N4S/Callisto) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-04-04 - 치지직(CHZZK) Streamlink 자동 녹화 `Python` `Docker`
 * [BlackOut-git/Chzzk-live-recorder](https://github.com/BlackOut-git/Chzzk-live-recorder) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-22 - 자동 녹화 시스템 `Python` `MIT License`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

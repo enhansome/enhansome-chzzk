@@ -238,7 +238,7 @@
                 "id": 744435568,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-04-25T00:09:22Z",
+                "last_commit": "2026-10-24T17:51:16Z",
                 "open_issues": 0,
                 "owner": "Emin-G",
                 "repo": "buzzk",
@@ -594,8 +594,8 @@
                 "id": 762667574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T06:42:08Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-24T11:25:18Z",
+                "open_issues": 1,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
                 "stars": 62,
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:43:24.067Z",
+    "last_updated": "2026-10-25T00:20:42.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
