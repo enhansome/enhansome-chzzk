@@ -69,8 +69,8 @@
                 "id": 729065917,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T15:31:27Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-28T02:11:19Z",
+                "open_issues": 21,
                 "owner": "jebibot",
                 "repo": "cheese-knife",
                 "stars": 24,
@@ -598,7 +598,7 @@
                 "open_issues": 1,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "chzzk",
                   "mediarecorder",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:23:27.129Z",
+    "last_updated": "2026-10-29T01:48:26.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
