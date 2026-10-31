@@ -174,32 +174,11 @@
                 "open_issues": 3,
                 "owner": "kimcore",
                 "repo": "chzzk",
-                "stars": 211,
+                "stars": 210,
                 "topics": [
                   "chzzk",
                   "naver"
                 ]
-              },
-              "first_seen": "2026-08-28T06:07:59.404Z"
-            },
-            {
-              "node_type": "item",
-              "title": "[Java] R2turnTrue/chzzk4j",
-              "description": "Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) (Maven)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver)",
-                "homepage": null,
-                "id": 737375580,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-10-23T16:53:13Z",
-                "open_issues": 1,
-                "owner": "R2turnTrue",
-                "repo": "chzzk4j",
-                "stars": 47,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -223,6 +202,27 @@
                 "topics": [
                   "chzzk"
                 ]
+              },
+              "first_seen": "2026-08-28T06:07:59.404Z"
+            },
+            {
+              "node_type": "item",
+              "title": "[Java] R2turnTrue/chzzk4j",
+              "description": "Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) (Maven)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver)",
+                "homepage": null,
+                "id": 737375580,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-10-23T16:53:13Z",
+                "open_issues": 1,
+                "owner": "R2turnTrue",
+                "repo": "chzzk4j",
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -689,8 +689,8 @@
                 "id": 738088434,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-29T17:34:14Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-30T15:15:14Z",
+                "open_issues": 8,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
                 "stars": 31,
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T01:57:52.346Z",
+    "last_updated": "2026-10-31T01:36:01.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",

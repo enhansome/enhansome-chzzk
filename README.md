@@ -22,9 +22,9 @@
 
 ### SDK
 
-* \[Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) ⭐ 211 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-13 - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
-* \[Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) ⭐ 47 | 🐛 1 | 🌐 Java | 📅 2026-10-23 - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
+* \[Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) ⭐ 210 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-13 - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
 * \[Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/)) ([공식 문서](https://gunyu1019.github.io/chzzkpy/ko))
+* \[Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) ⭐ 46 | 🐛 1 | 🌐 Java | 📅 2026-10-23 - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 * \[Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - 뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
 * \[Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2024-11-26 - Unity Chzzk chatting/donation Connection `C#`
 * \[Python] [jonghwanhyeon/python-chzzk](https://github.com/jonghwanhyeon/python-chzzk) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2025-01-18 - An unofficial Python library for CHZZK `Python` `MIT License` ([PyPI](https://pypi.org/project/python-chzzk/))
@@ -63,7 +63,7 @@
 
 ### 디스코드 봇
 
-* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-29 - 치지직 방송 알림 디스코드 봇 `Typescript`
+* [junah201/chzzk-discord-bot](https://github.com/junah201/chzzk-discord-bot) ⭐ 31 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - 치지직 방송 알림 디스코드 봇 `Typescript`
 * [HaruChanHeart/chzzk-live-bot](https://github.com/HaruChanHeart/chzzk-live-bot) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-22 - NAVER's CHZZK Live Notification Bot for Discord `Javascript` `MIT License`
 * [LukeNightstar/discord\_chzzk\_live](https://github.com/LukeNightstar/discord_chzzk_live) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-03 - discord bot chzzk live notification `Javascript` `MIT License`
 * [HaekyungS/chzzk\_discord](https://github.com/HaekyungS/chzzk_discord) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-25 - 디스코드 치지직 뱅온 알림 봇 `Javascript`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
