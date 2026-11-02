@@ -687,10 +687,10 @@
                 "description": "치지직 방송 알림 디스코드 봇",
                 "homepage": "https://chzzk.junah.dev",
                 "id": 738088434,
-                "language": "TypeScript",
+                "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-31T20:23:51Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-01T19:48:04Z",
+                "open_issues": 7,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
                 "stars": 31,
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:11:33.309Z",
+    "last_updated": "2026-11-02T01:30:08.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
