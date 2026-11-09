@@ -594,7 +594,7 @@
                 "id": 762667574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T14:05:36Z",
+                "last_commit": "2026-11-08T09:03:32Z",
                 "open_issues": 1,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
@@ -690,7 +690,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-07T15:07:48Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
                 "stars": 31,
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:27:00.868Z",
+    "last_updated": "2026-11-09T01:44:04.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
