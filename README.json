@@ -41,7 +41,7 @@
                 "id": 733512653,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-16T15:27:39Z",
+                "last_commit": "2026-11-09T04:03:08Z",
                 "open_issues": 2,
                 "owner": "khk4912",
                 "repo": "Cheese-PIP",
@@ -689,7 +689,7 @@
                 "id": 738088434,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-07T15:07:48Z",
+                "last_commit": "2026-11-09T17:35:20Z",
                 "open_issues": 8,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:44:04.760Z",
+    "last_updated": "2026-11-10T04:07:27.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
@@ -918,7 +918,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-07-01T14:37:18Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "dokdo2013",
       "repo": "awesome-chzzk",
       "stars": 200,
