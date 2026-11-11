@@ -22,8 +22,8 @@
 
 ### SDK
 
-* \[Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) ⭐ 210 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-13 - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
-* \[Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/)) ([공식 문서](https://gunyu1019.github.io/chzzkpy/ko))
+* \[Node.js] [kimcore/chzzk](https://github.com/kimcore/chzzk) ⭐ 211 | 🐛 3 | 🌐 TypeScript | 📅 2024-08-13 - 네이버 라이브 스트리밍 서비스 CHZZK의 비공식 API 라이브러리 `Typescript` `MIT License` ([NPM](https://www.npmjs.com/package/chzzk))
+* \[Python] [gunyu1019/chzzkpy](https://github.com/gunyu1019/chzzk_py) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-11-10 - 네이버 라이브 스트리밍 서비스 비공식 파이썬 라이브러리 `Python` `MIT License` ([PyPI](https://pypi.org/project/chzzkpy/)) ([공식 문서](https://gunyu1019.github.io/chzzkpy/ko))
 * \[Java] [R2turnTrue/chzzk4j](https://github.com/R2turnTrue/chzzk4j) ⭐ 46 | 🐛 1 | 🌐 Java | 📅 2026-10-23 - Unofficial Java API library of CHZZK (치지직, the video streaming service of Naver) `Java` `MIT License` ([Maven](https://mvnrepository.com/artifact/io.github.R2turnTrue/chzzk4j))
 * \[Node.js] [Emin-G/buzzk](https://github.com/Emin-G/buzzk) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-24 - 뿌지직 (BUZZK) - 치지직(CHZZK) 챗봇을 더욱 쉽게 개발할 수 있도록 돕는 비공식 라이브러리. `Javascript` `MIT License` ([NPM](https://www.npmjs.com/package/buzzk))
 * \[Unity] [JoKangHyeon/ChzzkUnity](https://github.com/JoKangHyeon/ChzzkUnity) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2024-11-26 - Unity Chzzk chatting/donation Connection `C#`
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
