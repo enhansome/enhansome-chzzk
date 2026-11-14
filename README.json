@@ -689,7 +689,7 @@
                 "id": 738088434,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-09T17:35:20Z",
+                "last_commit": "2026-11-13T10:54:06Z",
                 "open_issues": 8,
                 "owner": "junah201",
                 "repo": "chzzk-discord-bot",
@@ -909,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:37:55.898Z",
+    "last_updated": "2026-11-14T02:27:14.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
