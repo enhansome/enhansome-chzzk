@@ -594,7 +594,7 @@
                 "id": 762667574,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T02:26:15Z",
+                "last_commit": "2026-11-14T08:37:15Z",
                 "open_issues": 0,
                 "owner": "munsy0227",
                 "repo": "Chzzk-Rekoda",
@@ -604,27 +604,6 @@
                   "mediarecorder",
                   "recorder"
                 ]
-              },
-              "first_seen": "2026-08-28T06:07:59.404Z"
-            },
-            {
-              "node_type": "item",
-              "title": "park-onezero/streamlink-plugin-chzzk",
-              "description": "streamlink plugin for 치지직(Chzzk)",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "streamlink plugin for CHZZK(치지직)",
-                "homepage": null,
-                "id": 733458923,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-01-07T11:37:30Z",
-                "open_issues": 2,
-                "owner": "park-onezero",
-                "repo": "streamlink-plugin-chzzk",
-                "stars": 22,
-                "topics": []
               },
               "first_seen": "2026-08-28T06:07:59.404Z"
             },
@@ -909,7 +888,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:27:14.307Z",
+    "last_updated": "2026-11-15T01:56:32.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Chzzk(치지직) 플랫폼 관련 오픈소스 프로젝트 모음",
